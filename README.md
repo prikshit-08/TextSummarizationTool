@@ -31,7 +31,7 @@ GUI based tool that summarize the text file given by the user.
 ---
 [(Back to top)](#list-of-contents)
 
-- To run the program simply run the SummaryTool.java file in any java complier.
+- To run the program simply run the SummaryTool.java file Eclipse IDE.
 
 ## Running
 
